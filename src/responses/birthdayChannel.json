@@ -1,0 +1,17 @@
+[
+  {
+    "text": "Your birthday is all about you! Enjoy yourself and make the most of it, <@{userId}>! 🎉"
+  },
+  {
+    "text": "🎂 Have some cake, because today is <@{userId}>'s birthday!"
+  },
+  {
+    "text": "Happy birthday <@{userId}>!"
+  },
+  {
+    "text": "Happy birthday <@{userId}>! If you need to work today, just pretend. 😉"
+  },
+  {
+    "text": "Being young is possible at any age. Happy birthday <@{userId}>!"
+  }
+]
