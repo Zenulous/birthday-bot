@@ -27,6 +27,6 @@ The bot will check user birthdays every morning and when a new birthday is set.
 
 ![birthdayCongratulations](./assets/birthdayCongratulations.PNG)
 
-# Customise Birthday Messages
+# Customize Birthday Messages
 
 Birthday messages can be added or modified in `./src/responses/birthdayChannel.json`.
